@@ -83,11 +83,6 @@ http://secofis.com/a/plugins/content/plugin_googlemap2_proxy.php?url=
 http://smartonecity.com/pt/plugins/content/plugin_googlemap2_proxy.php?url=
 http://snelderssport.nl/web/plugins/content/plugin_googlemap2_proxy.php?url=
 http://spanner-joos-vergaser.de/joomla/plugins/content/plugin_googlemap2_proxy.php?url=
-http://static.74.174.40.188.clients.your-server.de/decongroup.narod.ru/plugins/content/plugin_googlemap2_proxy.php?url=
-http://static.74.174.40.188.clients.your-server.de/homemuseum.narod.ru/plugins/content/plugin_googlemap2_proxy.php?url=
-http://static.74.174.40.188.clients.your-server.de/igor-lagutin.narod.ru/plugins/content/plugin_googlemap2_proxy.php?url=
-http://static.76.174.40.188.clients.your-server.de/gamesshops.narod.ru/plugins/content/plugin_googlemap2_proxy.php?url=
-http://static.76.174.40.188.clients.your-server.de/novoselie.narod.ru/plugins/content/plugin_googlemap2_proxy.php?url=
 http://sunnyhillsassistedliving.com/plugins/content/plugin_googlemap2_proxy.php?url=
 http://testserver.lv/salve/plugins/content/plugin_googlemap2_proxy.php?url=
 http://thevintagechurch.com/www2/index.php?url=/plugins/content/plugin_googlemap2_proxy.php?url=
